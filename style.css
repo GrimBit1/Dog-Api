@@ -61,6 +61,13 @@ button {
     rgba(148, 187, 233, 1) 100%
   );
 }
+button:hover{
+  background: radial-gradient(
+    circle,
+    rgb(203, 120, 156) 0%,
+    rgb(90, 132, 180) 100%
+  );
+}
 #img {
   width: 100%;
   aspect-ratio: 1;
